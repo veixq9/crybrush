@@ -1,4 +1,4 @@
-# Goya
+# criybruch
 
 A pixel-art editor built on ClojureScript and [Om](https://github.com/swannodette/om). It was largely inspired by the suprisingly short
 code snippet required to implement undo functionality in David Nolen's [Time Travel blog post]
