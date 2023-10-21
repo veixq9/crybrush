@@ -8,8 +8,6 @@ Play with it here:
 http://jackschaedler.github.io/goya/.
 
 
-[//] ![Alt text](preview.png "Goya in Action")
-
 
 ## Credits
 
